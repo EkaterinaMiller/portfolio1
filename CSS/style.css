@@ -3,7 +3,7 @@ button{
     background-color: navy;
     color:white;
     height: 30px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 button:hover{
